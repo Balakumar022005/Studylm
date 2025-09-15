@@ -1,0 +1,68 @@
+answer_question("How can I track my order?")
+answer_question("Can I return an item after 14 days?")
+answer_question("What payment methods are accepted?")
+
+Store Name: Tech Haven
+
+--- Store Policies ---
+
+Shipping Policy
+Processing Time: Orders are processed within 1-2 business days.
+Shipping Time: Standard shipping takes 3-7 business days, expedited shipping 1-3 business days.
+Shipping Costs: Calculated at checkout based on location and selected shipping speed.
+International Shipping: Available to select countries; customs fees and duties are the responsibility of the buyer.
+Tracking Information: Provided via email once the order is shipped.
+
+Return and Refund Policy
+Eligibility: Returns are accepted within 30 days of delivery.
+Condition: Items must be unused, in original packaging, and include all accessories.
+Return Shipping: Customers are responsible for return shipping costs unless the item is defective or incorrect.
+Refund Processing: Refunds are processed within 5-7 business days after the returned item is received and inspected.
+Exclusions: Final sale items and digital products are non-refundable.
+
+Warranty Policy
+Coverage: Most products come with a 1-year manufacturer warranty.
+Claims Process: Contact support@techhaven.com with proof of purchase.
+Exclusions: Damage due to misuse, water damage, or unauthorized modifications is not covered.
+
+Payment Policy
+Accepted Payment Methods: Credit/Debit Cards, PayPal, Apple Pay, Google Pay, Buy Now, Pay Later (BNPL).
+Security: Transactions are encrypted and processed securely.
+Currency: All transactions are processed in USD.
+
+Privacy Policy
+Data Collection: Customer information is collected to process orders and improve services.
+Data Protection: Personal information is not sold or shared with third parties.
+Cookies: Our website uses cookies to enhance user experience.
+
+Contact Information
+Customer Support: Monday-Friday, 9 AM - 6 PM EST
+Email: support@techhaven.com
+Phone: (123) 456-7890
+Live Chat: Available on website
+
+--- Frequently Asked Questions (FAQs) ---
+
+1. How do I track my order?
+You will receive a tracking number via email once your order has shipped. Track on our website using the number.
+
+2. Can I cancel my order?
+Orders can be canceled within 12 hours of purchase. After this, the order may already be processed and shipped.
+
+3. Do you offer price matching?
+Currently, we do not offer price matching. Promotions and discounts are run regularly.
+
+4. What if my product arrives damaged or defective?
+Contact us immediately with photos. Replacement or refund will be arranged.
+
+5. Do you offer bulk discounts?
+Yes, bulk orders may qualify for a discount. Contact sales@techhaven.com for inquiries.
+
+6. How do I return an item?
+Visit Returns & Refunds page. Follow instructions and ship the item back.
+
+7. Do you offer gift cards?
+Yes, digital gift cards in various denominations are available on the website.
+
+8. How do I contact customer service?
+Reach us via email, phone, or live chat during business hours.

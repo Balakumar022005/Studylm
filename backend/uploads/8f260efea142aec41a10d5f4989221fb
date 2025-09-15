@@ -1,0 +1,59 @@
+{
+  "info": {
+    "name": "Document Assistant",
+    "_postman_id": "12345678-abcd-efgh-ijkl-1234567890ab",
+    "description": "Postman collection for uploading documents and asking questions via Node.js + Python RAG backend.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Upload Document",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": "D:/new123/new_doc.txt"
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:5000/upload",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["upload"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Ask Question",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"question\": \"What is Python?\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/ask",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["ask"]
+        }
+      },
+      "response": []
+    }
+  ]
+}

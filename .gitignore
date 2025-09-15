@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# React / frontend build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+venv/
+.env
+
+# FAISS / data
+faiss.index
+chunks.json
+
+# Models (huge files, usually kept locally)
+models/
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db

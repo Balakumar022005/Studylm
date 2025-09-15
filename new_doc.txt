@@ -1,0 +1,39 @@
+1. Basic Understanding / Explanation
+
+"Explain the Warranty Policy."
+
+"What is the return policy for defective products?"
+
+"Describe the process for claiming a refund."
+
+2. Summarization
+
+"Summarize the FAQ section in a few points."
+
+"Give a brief summary of the company's support services."
+
+3. Comparison / Differentiation
+
+"Differentiate between standard warranty and extended warranty."
+
+"Compare return vs replacement policies."
+
+4. List / Step-by-Step
+
+"List the steps to claim warranty for a product."
+
+"Give a list of items covered under the warranty."
+
+"Provide the contact methods for customer support."
+
+5. Elaboration / Paragraph
+
+"Elaborate on the limitations and exclusions in the warranty."
+
+"Explain the conditions under which a refund is not applicable."
+
+6. Misc / Edge Cases
+
+"What is the maximum amount claimable for a defective product?"
+
+"How long does it take to process a warranty claim?"

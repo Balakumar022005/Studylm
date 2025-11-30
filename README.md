@@ -130,3 +130,7 @@ Backend first: Always start the backend before using the frontend.
 Port conflicts: Ensure ports 3000 (frontend) and 5000 (backend) are free.
 
 File uploads: Only supported formats are PDF, DOCX, TXT.
+
+![IMG-20251005-WA0002](https://github.com/user-attachments/assets/23102e15-0988-425d-a359-998a40f3354f)
+![IMG-20251005-WA0001](https://github.com/user-attachments/assets/52925b56-e294-45af-b4e5-db4cd6020ae8)
+![IMG-20251005-WA0003](https://github.com/user-attachments/assets/7ea8400c-1159-4e8f-b7f8-87ee9bee563b)
